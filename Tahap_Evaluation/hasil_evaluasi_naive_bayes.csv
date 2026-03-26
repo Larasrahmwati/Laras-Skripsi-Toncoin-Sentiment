@@ -1,0 +1,2 @@
+model,accuracy,precision_weighted,recall_weighted,f1_score_weighted
+Naive Bayes,0.43805309734513276,0.5357895370537595,0.43805309734513276,0.4644465145163794

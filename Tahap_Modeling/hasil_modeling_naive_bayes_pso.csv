@@ -1,0 +1,2 @@
+model,alpha_terbaik,mean_cv_accuracy
+Naive Bayes + PSO,5.0,0.4827808471454881

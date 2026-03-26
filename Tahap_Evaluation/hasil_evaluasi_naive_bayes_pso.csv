@@ -1,0 +1,2 @@
+model,accuracy,precision_weighted,recall_weighted,f1_score_weighted
+Naive Bayes + PSO,0.4690265486725664,0.566110090721879,0.4690265486725664,0.4990277620130493
